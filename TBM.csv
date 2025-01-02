@@ -1,0 +1,41 @@
+﻿Work Item Type;Title
+Product Backlog Item;WK1 - Als Student bepaal ik welke functies betrokken zijn bij Dev (Application Development & Application Management) en welke functies betrokken zijn bij Ops (IT-infrastructure Management).
+Product Backlog Item;WK1 - Als Student maak ik een overzicht van het takenpakket van iedere medewerker binnen Ops, zodat je de taken, bevoegdheden en verantwoordelijkheden van iedere functies goed begrijpt. 
+Product Backlog Item;WK1 - Als Student maak ik een overzicht van vijf processen/practices uit ITIL die als eerste geïmplementeerd kunnen worden binnen Ops, zodat deze zorgen voor meer duidelijkheid/structuur binnen Ops en geef per proces een definitie met bronvermelding en een onderbouwing van de keuze voor dit proces/deze practice. 
+Product Backlog Item;WK1 - Als Student beschrijf ik welke functie of functies betrokken zijn binnen elk gekozen ITIL proces/practice (welke functies heeft welke rol binnen wel ITIL proces/practice?) en geef daarbij ook een onderbouwing. 
+Product Backlog Item;WK1 - Als Operator maak ik een Windows Server 2022 VM met Docker en een opensource applicatie naar keuze om een ITIL proces te ondersteunen.. 
+Product Backlog Item;"WK2 - Als Student bepaal ik voor ITM of deze organisatie wel of niet white-box monitoring moet gaan inzetten om meer ""grip"" te krijgen op de aanwezige infrastructuur & applicaties en geef een onderbouwing"
+Product Backlog Item;"WK2 - Als Student bepaal voor ITM of deze organisatie wel of niet black-box monitoring moet gaan inzetten om meer ""grip"" te krijgen op de aanwezige infrastructuur & applicaties en geef een onderbouwing."
+Product Backlog Item;WK2 - Als Student bepaal ik voor ITM hoe waarneembaarheid (metrics, logs en traces) eruit moeten te zien en geef een onderbouwing. 
+Product Backlog Item;WK2 - Als Operator richt ik minimaal 1 monitoringtool in voor ITM. 
+Product Backlog Item;WK3 - Als Student bepaal welke functies binnen ITM betrokken zijn bij Dev (application development en application management) en geef daarbij per functie aan of deze functie development doet en/of management. Voorzie dit van een onderbouwing. 
+Product Backlog Item;WK3 - Als Student maak ik een Azure DevOps board voor de developers van ITM en plaats daarin drie backlog items voor de onderstaande opdrachten.
+Product Backlog Item;WK3 - Als Operator maak ik een GitHub repository aan t.b.v. de eerste versie van een nieuwe EasyDevOps app voor ITM.
+Product Backlog Item;WK3 - Als Developer voeg ik via GitBash een initiële folderstructuur toe aan de GitHub repository en verklaar de gebruikte Git-commando's. 
+Product Backlog Item;WK3 - Als Developer maak ik een simpele frontend voor de nieuwe EasyDevOps app.
+Product Backlog Item;WK3 - Als Operator maak ik een script voor de installatie van de EasyDevOps frontend.
+Product Backlog Item;WK4 - Als Student bepaal ik welke drie processen uit ASL2 als eerste geïmplementeerd kunnen worden binnen Dev, zodat deze zorgen voor meer duidelijkheid/structuur binnen Dev en geef per proces een onderbouwing aan van de keuze voor dit proces/practice. 
+Product Backlog Item;WK4 - Als Student beschrijf ik welke functie of functies betrokken zijn binnen elk gekozen ASL2 proces (welke functies heeft welke rol binnen wel ITIL proces/practice?) en geef daarbij ook een onderbouwing. 
+Product Backlog Item;WK4 - Als Operator richt ik minimaal 1 tool in om ITM.te ondersteunen bij Dev 
+Product Backlog Item;WK5 - Als Student bepaal ik welke automatisering (A uit CALMS) past binnen het bedrijf ITM en geef een onderbouwing van jouw keuze. 
+Product Backlog Item;WK5 - Als Student bepaal ik welke van de 3 manieren (zie hoorcollege DevOps principes) past bij het bedrijf ITM en geef een onderbouwing van jouw keuze. 
+Product Backlog Item;WK5 - Als Operator maak ik voor TBM een lokale CI-server op basis van Jenkins en zorg dat je Github repo gekoppeld is via een webhook en ngrok, of op een eigen gekozen manie
+Product Backlog Item;WK6 - Als Student beschrijf ik hoe Continuous Development eruit kan komen te zien binnen ITM en geef een onderbouwing. 
+Product Backlog Item;WK6 - Als Student beschrijf ik hoe Continuous Testing eruit kan komen te zien binnen ITM en geef een onderbouwing. 
+Product Backlog Item;WK6 - Als Student beschrijf ik hoe Continuous Integration (CI) eruit kan komen te zien binnen ITM en geef een onderbouwing. 
+Product Backlog Item;WK6 - Als Student beschrijf ik hoe Continuous Delivery (CD) eruit kan komen te zien binnen ITM en geef een onderbouwing. 
+Product Backlog Item;WK6 - Als Student beschrijf ik hoe Continuous Monitoring eruit kan komen te zien binnen ITM en geef een onderbouwing. 
+Product Backlog Item;WK6 - Als Student beschrijf ik hoe Continuous Deployment (CD) eruit kan komen te zien binnen ITM en geef een onderbouwing. 
+Product Backlog Item;WK6 - Als Operator richt ik minimaal 1 tool in om ITM te ondersteunen bij DevOps
+Product Backlog Item;WK7 - Als Student pas je Jira Software toe en analyseer je hoe de DevOps fases worden ondersteund
+Product Backlog Item;WK7 - Als Student pas je Redmine toe en analyseer je hoe Redmine de volwassenheid van de ITM organisatie kan vergroten vanuit ITIL oogpunt.
+Product Backlog Item;WK7 - Als Student pas je GitLab toe en analyseer je hoe de DevOps fases worden ondersteund
+Product Backlog Item;WK7 - Als Student pas je Docker toe op een .NET applicatie en analyseer je hoe deze wordt gebouwd
+Product Backlog Item;WK7 - Als Student pas je Postman API tests toe 
+Product Backlog Item;WK8 - Als Student pas je OpenStack toe en analyseer je hoe de DevOps fases worden ondersteund
+Product Backlog Item;WK8 - Als Student pas je JFrog toe en analyseer je hoe de DevOps fases worden ondersteund
+Product Backlog Item;WK8 - Als Student migreer je een Web Applicatie met Docker Containers
+Product Backlog Item;WK8 - Als Student pas je Chef toe en analyseer je de geschiktheid voor ITM
+Product Backlog Item;WK8 - Als Student pas je Red Hat Automation Platform toe en analyseer je de geschiktheid voor ITM
+Product Backlog Item;WK8 - Als Student pas je Elastic Stack toe en analyseer je hoe dit ingezet kan worden voor Continous Monitoring voor ITM en beredeneer je om welk type monitoring dit gaat.
+Product Backlog Item;WK8 - Als Student pas je Prometheus/Grafana toe en analyseer je hoe dit ingezet kan worden voor Continous Monitoring voor ITM en beredeneer je om welk type monitoring dit gaat.
