@@ -1,2 +1,0 @@
-import-csv -path .\TBM.csv -Delimiter ";" | export-csv -path .\TBM_comma.csv -Delimiter ","
-write-host "Don't forget to delete the first comment row after generation, otherwise it won't import in Azure DevOps"
